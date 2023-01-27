@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "91446b466709128ad6411b6950aad1bc",
-"index.html": "1be3d207e8da3fd2ad94b7458dfbea3b",
-"/": "1be3d207e8da3fd2ad94b7458dfbea3b",
-"main.dart.js": "5eae823877ac7d8f68f0303e140ebfbf",
-"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
+"index.html": "27d0c96a657fbb1ac4b5cb447985fffd",
+"/": "27d0c96a657fbb1ac4b5cb447985fffd",
+"main.dart.js": "6e84a89f8b846f7b256e131670f75755",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -30,11 +29,7 @@ const RESOURCES = {
 "assets/assets/fonts/Proxima%2520Nova%2520Bold.otf": "62d4d7d369292a9bf23762465ec6d704",
 "assets/assets/fonts/Proxima%2520Nova%2520Black.otf": "f401366193520cdf512c7ade98260e27",
 "assets/assets/fonts/Proxima%2520Nova%2520Extrabold.otf": "b4f9eb8ce027016ab9b9860817451d07",
-"assets/assets/fonts/Proxima%2520Nova%2520Regular.otf": "410504d49238e955ba7dc23a7f963021",
-"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
-"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
-"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
-"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
+"assets/assets/fonts/Proxima%2520Nova%2520Regular.otf": "410504d49238e955ba7dc23a7f963021"
 };
 
 // The application shell files that are downloaded before a service worker can
