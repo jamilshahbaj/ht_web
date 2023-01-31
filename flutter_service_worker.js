@@ -4,24 +4,24 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "91446b466709128ad6411b6950aad1bc",
-"index.html": "27d0c96a657fbb1ac4b5cb447985fffd",
-"/": "27d0c96a657fbb1ac4b5cb447985fffd",
-"main.dart.js": "6e84a89f8b846f7b256e131670f75755",
+"index.html": "848360ee1ebf28c229e52e45732e3e31",
+"/": "848360ee1ebf28c229e52e45732e3e31",
+"main.dart.js": "b56726bdf1c67eb0f27f65a91af133e5",
+"flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "c7580d92a3e3c64d2cd3ad6f668ce63a",
-"assets/AssetManifest.json": "18757ee542f3bd37455e080456473d4f",
-"assets/NOTICES": "c83dbfa0e0f6e39047b5dbef39327834",
+"assets/AssetManifest.json": "cfcf5135ed44a5f01b9279b80187e31d",
+"assets/NOTICES": "431d510face4f51b93488244486bbdff",
 "assets/FontManifest.json": "1cc5bf964b23d8240d8f01c10b4046ac",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "d8e9b6203ce2657c991f0b339ccb3a6d",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "48ce1bb8a42776caa951cb782d277730",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "99f29024aee8f4672a47cc3a81b9b84a",
-"assets/shaders/ink_sparkle.frag": "8f897bada9528152fb7e2d579a88ade8",
-"assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
+"assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/assets/images/massage.png": "ae779f7b1d3905f4e9f13e5d5abd3074",
 "assets/assets/images/yoga.png": "1bf7fc4accc1e70107965e3b4ecb5e3e",
 "assets/assets/icons/handhi.svg": "4e4752b58f375ffd20c9fa1221650912",
@@ -29,7 +29,11 @@ const RESOURCES = {
 "assets/assets/fonts/Proxima%2520Nova%2520Bold.otf": "62d4d7d369292a9bf23762465ec6d704",
 "assets/assets/fonts/Proxima%2520Nova%2520Black.otf": "f401366193520cdf512c7ade98260e27",
 "assets/assets/fonts/Proxima%2520Nova%2520Extrabold.otf": "b4f9eb8ce027016ab9b9860817451d07",
-"assets/assets/fonts/Proxima%2520Nova%2520Regular.otf": "410504d49238e955ba7dc23a7f963021"
+"assets/assets/fonts/Proxima%2520Nova%2520Regular.otf": "410504d49238e955ba7dc23a7f963021",
+"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
+"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
+"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
+"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e"
 };
 
 // The application shell files that are downloaded before a service worker can
